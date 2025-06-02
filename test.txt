@@ -1,0 +1,32 @@
+<<<<<<< HEAD:test.rb
+puts "hello"
+puts "second the line"
+puts "dev change"
+puts "feat002"
+puts "main002"
+<<<<<<< HEAD
+puts "main003"
+puts "main006"
+=======
+puts "feat003"
+puts "main006" # dev note345
+
+=======
+>>>>>>> 110ed28 (Edward: Changed main to test.txt and cleaned up):test.txt
+# feat007 - 01
+# feat007 - 02
+# finished now for feat007
+
+# 9 - task 1
+# 9 - task 2
+# 9 - task 3
+
+# new line in dev 1
+# new line in dev 2
+# 10 change 1
+# 10 change 2
+
+# DEV CHANGE ONE LINE
+# feat11 - 01
+# feat11 - 02
+# feat11 - 03
