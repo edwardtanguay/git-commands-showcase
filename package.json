@@ -1,0 +1,11 @@
+{
+  "name": "git-commands-showcase",
+  "version": "1.0.0",
+  "description": "A repository to practice advanced Git commands.",
+  "main": "index.js",
+  "scripts": {
+    "backup": "bash -c 'git archive --format=zip main -o \"../backup-$(date +%F-%H-%M-%S).zip\"'"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
