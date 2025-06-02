@@ -10,6 +10,8 @@ puts "main006"
 =======
 puts "feat003"
 puts "main006" # dev note345
+=====
+new section
 
 =======
 >>>>>>> 110ed28 (Edward: Changed main to test.txt and cleaned up):test.txt
