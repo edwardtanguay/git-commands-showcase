@@ -1,1 +1,7 @@
-content of new file
+the content of new file
+
+this is the correct input
+the second line
+
+
+last line
