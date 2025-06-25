@@ -1,0 +1,7 @@
+the content of new file
+changed the instructions here
+this is the correct input
+the second line
+
+still one more instruction
+last line
